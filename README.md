@@ -75,4 +75,4 @@ Netflix, a leading streaming service, offers a vast library of TV shows and movi
 ### **Prerequisites**
 - Python 3.x
 - Jupyter Notebook
-- Libraries: Pandas, Numpy, Matplotlib, Seaborn, etc.
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn.
