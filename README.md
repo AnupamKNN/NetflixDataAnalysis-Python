@@ -3,6 +3,9 @@
 ## **Project Overview**
 Welcome to the Netflix Data Analysis Project! This project involves cleaning, analyzing, and deriving insights from a dataset of TV shows and movies available on Netflix up to 2021. The data is sourced from Flixable via Kaggle.
 
+## **Problem Statement**
+Netflix, a leading streaming service, offers a vast library of TV shows and movies to its global audience. As of 2021, the platform continues to grow, and understanding its content catalog is crucial for informed decision-making. Our stakeholders include Netflix executives, content managers, and marketing teams.
+
 ## **Project Objectives**
 1. **Data Cleaning:** Ensure the dataset is free from inconsistencies and missing values.
 2. **Data Analysis:** Perform exploratory data analysis (EDA) to uncover patterns and trends.
