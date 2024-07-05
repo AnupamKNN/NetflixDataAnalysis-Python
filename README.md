@@ -70,6 +70,7 @@ Netflix, a leading streaming service, offers a vast library of TV shows and movi
 ## **Deliverables**
 1. Cleaned and well-documented dataset.
 2. Python scripts and Jupyter Notebooks with analysis and visualizations.
+3. PowerPoint presentation summarizing key findings and visualizations for stakeholder meetings.
 
 ## **Getting Started**
 ### **Prerequisites**
